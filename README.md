@@ -1,6 +1,6 @@
 # teams-for-M1-mac
 
-Original autor is Ismael Martinez, code is from (https://github.com/IsmaelMartinez/teams-for-linux)
+Original author is Ismael Martinez, code is from (https://github.com/IsmaelMartinez/teams-for-linux)
 
 This is only edited for M1 mac
 
